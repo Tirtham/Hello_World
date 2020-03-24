@@ -14,7 +14,7 @@
   <properties>
     <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
-    <sonar.projectKey>Tirtham_Git_Demo</sonar.projectKey>
+    <sonar.projectKey>Tirtham_Hello_World</sonar.projectKey>
     <sonar.organization>tirtham</sonar.organization>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     <sonar.login>d9ba36ab9a22dc9ce6b909e37a8f959a3cb0e106</sonar.login>   
